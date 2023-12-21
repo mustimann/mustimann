@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Typescript, C++ & Flutter**
 
-- 📫 How to reach me on Discord **@mustimann**
+- 📫 Reach out to me on Discord **@mustimann**
 
 - 📐 Other skills **Creating mods for Rage Engine based games (GTA:IV, GTA:V, RDR2) using 3ds Max & Blender**
 
